@@ -1,0 +1,1 @@
+set PYTHONPATH=C:\users\YOUR-USERNAME\tensorflow\models;C:\users\YOUR-USERNAME\tensorflow\models\research;C:\users\YOUR-USERNAME\tensorflow\models\research\slim
