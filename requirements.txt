@@ -73,7 +73,7 @@ requests-toolbelt==0.9.1
 Send2Trash==1.5.0
 six==1.15.0
 tensorboard==1.14.0
-tensorflow==1.14.0
+tensorflow==2.5.3
 tensorflow-estimator==1.14.0
 tensorflow-object-detection-api==0.1.1
 termcolor==1.1.0
